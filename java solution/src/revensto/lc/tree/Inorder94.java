@@ -6,6 +6,7 @@ import java.util.List;
 
 public class Inorder94 {
     public List<Integer> inorderTraversal(TreeNode root) {
+        String a = "";
         return null;
     }
 }
